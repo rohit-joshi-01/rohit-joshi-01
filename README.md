@@ -1,4 +1,4 @@
-# 💫 Rohit Joshi
+# Hi! I'm Rohit Joshi...💫 
 🎓 I'm a Computer Science Student<br>👨‍🔧 A passionate Software developer<br>📝 I'm currently learning Python<br>👯 I’m always looking to expand my knowledge and skill set<br>📫 How to reach me ribbounservice@gmail.com<br>💬 Ask me about my "learning phase"<br>⚡ Fun fact "I can solve Rubik's Cube in under 40 seconds"
 
 
